@@ -2,7 +2,7 @@
 layout: post
 title: "Intersection"
 comments: false
-categories: \[enterprise architecture, service design]
+categories: [enterprise architecture, service design]
 ---
 
 I have been taking some much needed vacation over the past month. During time, I have been working my way through [Milan Guenther's] new book, [“Intersection: How Enterprise Design Bridges the Gap Between Business, Technology and People”]. I will do a more formal book review in the near future, but I wanted to share my initial thoughts:
@@ -13,4 +13,6 @@ I have been taking some much needed vacation over the past month. During time, I
 
 So far it is an easy and enjoyable read. The case studies are very interesting and artfully presented.
 
-Follow Milan on Twitter here: [@eda\_c]
+Follow Milan on Twitter here: [@eda__c][1]
+
+[1]:	https://twitter.com/eda__c "@eda__c"
