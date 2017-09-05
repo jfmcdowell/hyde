@@ -1,30 +1,22 @@
 ---
 layout: page
-title: About
+title: "About"
+comments: false
+sharing: true
+footer: true
 ---
+Hi there, I'm Justin McDowell. I am writing here because I want to extend the discussion of [Enterprise Architecture][1] to the notion of building a human centered enterprise. I want to turn the volume down on corporate-speak and buzzword jargon and make Enterprise Architecture more approachable and user friendly. This site focuses primarily on Enterprise Architecture and blends in applicable learnings from [Service Design][2], and [User Centered Design][3].
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+[1]: https://en.wikipedia.org/wiki/Enterprise_architecture "Enterprise Architecture"
+[2]: https://en.wikipedia.org/wiki/Service_design "Service Design"
+[3]: https://en.wikipedia.org/wiki/User_centered_design "User-centered Design"
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I became an Enterprise Architect quite by accident. Before that job role, I've been everything from a grocer's clerk to a research assistant. I've had the pleasure of working for and traveling to some of the largest and smallest companies in the United States. I like science, tennis, wine, rum, and computers, just not in that order. When I am not at work or on the tennis court, I toil away on a novel that I am certain no one will read.
 
-There are currently two themes built on Poole:
+I hope you like the content that I feature on the site. Ideally, this will serve as a resource for the next generation of aspiring Enterprise Architects.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+If you want to contact me directly, follow me on Twitter [@jfmcdowell_][4].
+If you want to see what I am reading, see my [Pinboard.in][5] links.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[4]: https://twitter.com/jfmcdowell_/" "@jfmcdowell_"
+[5]: https://pinboard.in/u:jfmcdowell/public/ "Pinboard.In"
