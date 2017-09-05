@@ -2,6 +2,7 @@
 layout: page
 title: "About"
 ---
+
 Hi there, I'm Justin McDowell. I am writing here because I want to extend the discussion of [Enterprise Architecture][1] to the notion of building a human centered enterprise. I want to turn the volume down on corporate-speak and buzzword jargon and make Enterprise Architecture more approachable and user friendly. This site focuses primarily on Enterprise Architecture and blends in applicable learnings from [Service Design][2], and [User Centered Design][3].
 
 I became an Enterprise Architect quite by accident. Before that job role, I've been everything from a grocer's clerk to a research assistant. I've had the pleasure of working for and traveling to some of the largest and smallest companies in the United States. I like science, tennis, wine, rum, and computers, just not in that order. When I am not at work or on the tennis court, I toil away on a novel that I am certain no one will read.
