@@ -9,11 +9,11 @@ I became an Enterprise Architect quite by accident. Before that job role, I've b
 
 I hope you like the content that I feature on the site. Ideally, this will serve as a resource for the next generation of aspiring Enterprise Architects.
 
-If you want to contact me directly, follow me on Twitter [@jfmcdowell\_][4].
+If you want to contact me directly, follow me on Twitter [@jfmcdowell_][4].
 If you want to see what I am reading, see my [Pinboard.in][5] links.
 
 [1]:    https://en.wikipedia.org/wiki/Enterprise_architecture "Enterprise Architecture"
 [2]:    https://en.wikipedia.org/wiki/Service_design "Service Design"
 [3]:    https://en.wikipedia.org/wiki/User_centered_design "User-centered Design"
-[4]:    https://twitter.com/jfmcdowell_/%22 "@jfmcdowell_"
+[4]:    https://twitter.com/jfmcdowell_ "@jfmcdowell_"
 [5]:    https://pinboard.in/u:jfmcdowell/public/ "Pinboard.In"
